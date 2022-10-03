@@ -1,0 +1,9 @@
+.coinsearch {
+  margin: 1%;
+  padding: 1%;
+  font-size: 1.2em;
+}
+
+.coinsearch form label {
+  margin: 1%;
+}

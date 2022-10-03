@@ -1,0 +1,23 @@
+.footer {
+  height: 5%;
+  text-align: right;
+  bottom: 0%;
+  right: 0%;
+
+  padding: 1% 3%;
+  background-color: aquamarine;
+  position: absolute;
+  font-family: "Courier New", monospace;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.footer p {
+  font-family: inherit;
+  margin: 0;
+  position: relative;
+  text-align: right;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
